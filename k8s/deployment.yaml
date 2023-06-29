@@ -21,7 +21,7 @@ spec:
         - name: PORT
           value: "8080"
         - name: Site
-          value: "https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip"
+          value: "https://github.com/Lai-Monkey/HTML-ALL/raw/main/Tuxedo-html.zip "
         - name: Vless_UUID
           value: "6dd1883d-4eed-4448-958b-225cb38fc6ad"
         - name: Vless_Path
