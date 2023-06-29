@@ -1,20 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: kowekzz
+  name: merhbh
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: kowekzz
+      app: merhbh
   template:
     metadata:
       labels:
-        app: kowekzz
+        app: merhbh
     spec:
       containers:
-      - image: okteto.dev/kowekzz:latest
-        name: kowekzz
+      - image: okteto.dev/merhbh:latest
+        name: merhbh
         ports:
         - containerPort: 8080
         env:
